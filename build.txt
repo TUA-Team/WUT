@@ -1,0 +1,7 @@
+author = Dradonhunter11
+version = 0.2
+displayName = WUT
+modReferences = Dimlibs
+homepage = https://forums.terraria.org/index.php?threads/wut-a-purely-awesome-mod.69684/
+hideResources = false
+includeSource = false
